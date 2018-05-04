@@ -1,0 +1,103 @@
+commonInstanceMetadata:
+  fingerprint: eqHeUKuhBjI=
+  items:
+  - key: ssh-keys
+    value: |
+      iolalla:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCdn/9l5Ix3S0jagimLb8YArUWyqYEsatYvWEYKVtAqN3XxucxraXR49bkH/c1daxqKxdNRr/SFeR+w8wJW7eW5/1KVpVw22ourJ6Hz7dsE5hScaG9Wi5dccQBcVcvMarXZVh4jmQPLoa4/WrFTQLhZItd+X0tGV3TvtpqPft7WjULKL3tTKwb2eQzAhcv5vcEU9u0EfLE5Bix0CM0WagQWI2Z4mOK2HDJL6MNrBPgShljnhxnboZWrElabkyV83zvjlcJprh/T5mDrgs10LNg7Thw9IL/8Jbj0Tr4/lIbqvwvhb1s75AQYJk14S7oMEKYoByHoxTC1rj76lzd7JPch google-ssh {"userName":"iolalla@google.com","expireOn":"2018-05-03T19:15:18+0000"}
+      iolalla:ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBEGdAl2UefCcPIn3iA0sQiUw+ejFFb8r5w+lnvBEyEoTOdUDEAotXwTu6iEi01MxYKmn/ZGBmN8CyasR5zuw3kg= google-ssh {"userName":"iolalla@google.com","expireOn":"2018-05-03T19:15:11+0000"}
+      daniel_megyesi:ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0uc0trbrnJ/7cm7jYbWi2udL3zipyMEWnn15GREmkFwpu9b0A32qjWioq0L2nBvO5KoTEoasLov0bkz5akx4K3Obm0W/aXlluGEmv1d5le5Qu1GDarzn5aVV/DYhyd8EELaz8NCHDmtUNfNqrKhZGANxms9Dyz747HZhyajU4m5DIpOnOkbBuENiYh+nxkNr82dMuvZNjIdhcMZFNFYPHx5oT8olAWf2CUa/l2mB9h+5mDZyLHLMuJcivXHWhBcreLjBQsDjUm9KINKBAO0EpvUobR+vEdsh7uMqxwWOwgQHF38z00j9BqlrQkViYGfi6XWGVV4/xo+tnqrl7Yymp daniel_megyesi@cs-6000-devshell-vm-afeff08c-0a33-415b-b1e0-9a233a069698
+  - key: sshKeys
+    value: ''
+  kind: compute#metadata
+creationTimestamp: '2018-05-03T02:10:11.022-07:00'
+defaultServiceAccount: 926097546523-compute@developer.gserviceaccount.com
+id: '2662920557993357084'
+kind: compute#project
+name: edreams-toy
+quotas:
+- limit: 1000.0
+  metric: SNAPSHOTS
+  usage: 0.0
+- limit: 5.0
+  metric: NETWORKS
+  usage: 2.0
+- limit: 100.0
+  metric: FIREWALLS
+  usage: 6.0
+- limit: 100.0
+  metric: IMAGES
+  usage: 0.0
+- limit: 8.0
+  metric: STATIC_ADDRESSES
+  usage: 0.0
+- limit: 200.0
+  metric: ROUTES
+  usage: 24.0
+- limit: 15.0
+  metric: FORWARDING_RULES
+  usage: 4.0
+- limit: 50.0
+  metric: TARGET_POOLS
+  usage: 1.0
+- limit: 50.0
+  metric: HEALTH_CHECKS
+  usage: 1.0
+- limit: 8.0
+  metric: IN_USE_ADDRESSES
+  usage: 4.0
+- limit: 50.0
+  metric: TARGET_INSTANCES
+  usage: 0.0
+- limit: 10.0
+  metric: TARGET_HTTP_PROXIES
+  usage: 0.0
+- limit: 10.0
+  metric: URL_MAPS
+  usage: 0.0
+- limit: 5.0
+  metric: BACKEND_SERVICES
+  usage: 0.0
+- limit: 100.0
+  metric: INSTANCE_TEMPLATES
+  usage: 0.0
+- limit: 5.0
+  metric: TARGET_VPN_GATEWAYS
+  usage: 1.0
+- limit: 10.0
+  metric: VPN_TUNNELS
+  usage: 0.0
+- limit: 3.0
+  metric: BACKEND_BUCKETS
+  usage: 0.0
+- limit: 10.0
+  metric: ROUTERS
+  usage: 1.0
+- limit: 10.0
+  metric: TARGET_SSL_PROXIES
+  usage: 0.0
+- limit: 10.0
+  metric: TARGET_HTTPS_PROXIES
+  usage: 0.0
+- limit: 10.0
+  metric: SSL_CERTIFICATES
+  usage: 0.0
+- limit: 100.0
+  metric: SUBNETWORKS
+  usage: 22.0
+- limit: 10.0
+  metric: TARGET_TCP_PROXIES
+  usage: 0.0
+- limit: 64.0
+  metric: CPUS_ALL_REGIONS
+  usage: 8.0
+- limit: 10.0
+  metric: SECURITY_POLICIES
+  usage: 0.0
+- limit: 100.0
+  metric: SECURITY_POLICY_RULES
+  usage: 0.0
+- limit: 6.0
+  metric: INTERCONNECTS
+  usage: 0.0
+selfLink: https://www.googleapis.com/compute/v1/projects/edreams-toy
+xpnProjectStatus: UNSPECIFIED_XPN_PROJECT_STATUS
