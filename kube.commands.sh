@@ -6,7 +6,8 @@ kubectl get pods -l="app=cassandra"
 kubectl exec cassandra-0 -- nodetool status
 #kubectl edit statefulset cassandra
 
-
+# check quotas
+gcloud compute project-info describe --project myproject
 
 #https://kubernetes.io/docs/reference/kubectl/cheatsheet/
 kubectl explain pods,svc
